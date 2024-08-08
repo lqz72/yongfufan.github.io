@@ -13,7 +13,7 @@ I'm a matser student at University of Electronic Science and Technology of China
 1. **Yongfu Fan**, Jin Chen, Yongquan Jiang, Defu Lian, Fangda Guo, Kai Zheng*. Batch-Mix Negative Sampling for Learning Recommendation Retrievers. The 31st ACM International Conference on Information & Knowledge Management. (CIKM 2023)
 
 - **Educations**
-  + 2019.09-2023.06, Southwest Jiaotong University, Bachelor
+  + _2019.09-2023.06_, Southwest Jiaotong University, Bachelor
     * School of Computing and Artificial Intelligence
-  + 2023.09-now, University of Electronic Science and Technology of China, master student
+  + _2023.09-now_, University of Electronic Science and Technology of China, Master degree candidate
     * School of Computer Science and Engineering
